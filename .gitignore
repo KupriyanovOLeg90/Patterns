@@ -1,0 +1,15 @@
+
+_ReSharper.*
+bin
+obj
+Debug
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.datasource
+*.log
+Thumbs.db
+/GlobalAssemblyInfoForApp.cs
+/GlobalAssemblyInfo.cs
+*.json
